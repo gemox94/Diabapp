@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiabApp</string>
+
+    <string name="str_email">Email</string>
+    <string name="str_password">Contraseña</string>
+    <string name="str_blue_circle">Diabetes</string>
+    <string name="str_login">Entrar</string>
+    <string name="str_register">Registrarse</string>
+    <string name="drawer_open">Open Navigation drawer</string>
+    <string name="drawer_close">Close Navigation drawer</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
