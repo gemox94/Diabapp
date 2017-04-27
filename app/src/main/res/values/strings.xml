@@ -3,6 +3,9 @@
 
     <string name="str_email">Email</string>
     <string name="str_password">Contraseña</string>
+    <string name="str_name">Nombre</string>
+    <string name="str_lastname">Apellido</string>
+    <string name="str_address">Direccion</string>
     <string name="str_blue_circle">Diabetes</string>
     <string name="str_login">Entrar</string>
     <string name="str_register">Registrarse</string>
